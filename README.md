@@ -24,12 +24,6 @@ A responsive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript** as part 
 
 ---
 
-## 📸 Screenshot
-
-![Game Screenshot](assets/screenshot.png)
-
----
-
 ## 🚀 How to Run
 
 Use Visual Studio Code for Better experience.
@@ -56,8 +50,6 @@ Task 03
 Developed an interactive Tic-Tac-Toe web application with multiple gameplay modes using HTML, CSS, and JavaScript.
 
 ---
-## ✨Preview
-https://github.com/user-attachments/assets/c4536c2d-1348-4c5e-83c1-9fc1788c8965
 
 ## 👨‍💻 Author
 
