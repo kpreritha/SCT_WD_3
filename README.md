@@ -62,4 +62,3 @@ https://github.com/user-attachments/assets/170e4246-3a24-4750-9484-e6b425cca839
 
 **Preritha Kandregula**
 
-GitHub: https://github.com/kpreritha
